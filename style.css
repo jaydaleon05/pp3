@@ -1,0 +1,33 @@
+/* .container h1{
+    margin-top: 5px;
+    text-align: center;
+} */
+
+/* .container{
+
+    display: flex;
+
+
+} */
+.container-fluid a{
+    font-family: 'Playfair Display';
+}
+.hover-effect {
+    transition: transform 0.3s, border-color 0.3s, color 0.3s;
+    
+}
+
+.hover-effect:hover img {
+    transform: scale(1.05); /* Scale the image slightly when hovering */
+    opacity: 0.5;
+}
+
+.fa-user{
+    color: black;
+}
+.fa-cart-shopping{
+    color: black;
+}
+
+
+
